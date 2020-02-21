@@ -22,7 +22,7 @@ granos = int(input())
 def funcion(x, y, z):
     valor = (x-3+y-2+z-5)
     if(valor<presupuesto):
-        print('Usted es un buen comprador a ahorrado')
+        print('Usted es un buen comprador ha ahorrado')
     elif(valor==presupuesto):
             print('cuidado')
     else:
